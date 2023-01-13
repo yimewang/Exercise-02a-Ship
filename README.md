@@ -6,7 +6,20 @@ A demonstration of this exercise is available at [https://youtu.be/rVAZ---1Aus](
 
 This exercise is the first opportunity for you to get your feet wet with Godot. It will explore the first step to creating an Arcade Space Shooter: a player-controlled character. We will be exploring key bindings; adding a sprite to our game; vectors, velocity, and acceleration; and our first physics body: KinematicBody2D.
 
-First, be sure you have downloaded and installed the appropriate version of [Godot 3.5](https://godotengine.org/download) for your computer. Most likely, you will want the 64-bit version (only install the 32-bit version if the 64-bit doesn't run). Godot will download as a zip file. **Be sure to extract the application from the zip file and copy it to an appropriate location.**
+The expectations for this exercise are that you will
+
+ - [ ] Download and install Godot 3.5.1
+ - [ ] Fork and clone this repository
+ - [ ] Import the project into Godot
+ - [ ] Create key mappings
+ - [ ] Create a user-controlled ship (using the provided assets)
+ - [ ] Script the ship so that it can accelerate and rotate. Cause it to wrap at the window boundaries
+ - [ ] Edit the LICENSE and README.md
+ - [ ] Commit and push your changes back to GitHub. Turn in the URL of your repository on Canvas.
+
+## Instructions
+
+First, be sure you have downloaded and installed the appropriate version of [Godot 3.5.1](https://godotengine.org/download) for your computer. Most likely, you will want the 64-bit version (only install the 32-bit version if the 64-bit doesn't run). Godot will download as a zip file. **Be sure to extract the application from the zip file and copy it to an appropriate location.**
 
 Godot is currently not code-signed on the Mac, so if you are running it on a Mac, the first time you run it, you will need to right-click on the application and Open (and then indicate that you want to open it). Subsequently, it should open normally.
 
@@ -50,7 +63,7 @@ A user-controlled ship for a space-shooter game. Created in Godot.
 
 ## Implementation
 
-Created using [Godot 3.5](https://godotengine.org/download)
+Created using [Godot 3.5.1](https://godotengine.org/download)
 
 Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
 
